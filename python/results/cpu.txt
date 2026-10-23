@@ -1,0 +1,3 @@
+Execution time: 3.9160485020001943
+CPU temperature: 42.4'C
+CPU usage: 5.11% 
